@@ -12,7 +12,7 @@ A simple campus meetup board for Bar-Ilan students who want to post and discover
 
 ## Live link
 
-To be added after publishing with GitHub Pages.
+https://matrixfeedk-netizen.github.io/Bar-Ilan-Campus-Meetup-Board/
 
 ## How to use it
 
